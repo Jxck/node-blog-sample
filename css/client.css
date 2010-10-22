@@ -1,0 +1,13 @@
+#input {
+}
+
+#button {
+
+}
+
+#output {
+	width: 30%;
+	font: Helvetica, Arial; 
+	border: 3px solid #101010;
+	padding: 4px;
+}
